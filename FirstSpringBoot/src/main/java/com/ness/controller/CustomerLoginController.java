@@ -11,6 +11,7 @@ public class CustomerLoginController {
     private CustomerLoginService customerLoginService;
     public String authenticateCustomer(CustomerLoginDTO customerLogin) throws HndBankException {
         String b = customerLoginService.authenticateCustomer(customerLogin);
+        System.out.println("AFter service class called");
         return b;
     }
 }
