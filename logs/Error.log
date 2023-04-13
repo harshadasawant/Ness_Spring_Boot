@@ -1,0 +1,28 @@
+2023-04-13 06:06:09 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - Starting FirstSpringBootApplication using Java 18.0.1.1 with PID 556 (C:\Users\Daksh\IdeaProjects\Ness_Spring_Boot\FirstSpringBoot\target\classes started by Daksh in C:\Users\Daksh\IdeaProjects\Ness_Spring_Boot)
+2023-04-13 06:06:09 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-13 06:06:10 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - Started FirstSpringBootApplication in 2.03 seconds (process running for 4.173)
+2023-04-13 06:06:10 [main] INFO  com.ness.utility.LoggingAspect - Before advice called.
+2023-04-13 06:06:10 [main] INFO  com.ness.utility.LoggingAspect - After returning advice called.
+2023-04-13 06:06:10 [main] INFO  com.ness.utility.LoggingAspect - After advice called.
+2023-04-13 06:06:10 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - Customer logged in successfully!!
+2023-04-13 06:10:15 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - Starting FirstSpringBootApplication using Java 18.0.1.1 with PID 19408 (C:\Users\Daksh\IdeaProjects\Ness_Spring_Boot\FirstSpringBoot\target\classes started by Daksh in C:\Users\Daksh\IdeaProjects\Ness_Spring_Boot)
+2023-04-13 06:10:15 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-13 06:10:16 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - Started FirstSpringBootApplication in 1.832 seconds (process running for 2.912)
+2023-04-13 06:10:16 [main] INFO  com.ness.utility.LoggingAspect - Before advice called.
+2023-04-13 06:10:16 [main] INFO  com.ness.utility.LoggingAspect - After returning advice called.
+2023-04-13 06:10:16 [main] INFO  com.ness.utility.LoggingAspect - After advice called.
+2023-04-13 06:10:16 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - Customer logged in successfully!!
+2023-04-13 06:10:33 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - Starting FirstSpringBootApplication using Java 18.0.1.1 with PID 5896 (C:\Users\Daksh\IdeaProjects\Ness_Spring_Boot\FirstSpringBoot\target\classes started by Daksh in C:\Users\Daksh\IdeaProjects\Ness_Spring_Boot)
+2023-04-13 06:10:33 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-13 06:10:34 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - Started FirstSpringBootApplication in 2.037 seconds (process running for 3.05)
+2023-04-13 06:10:34 [main] INFO  com.ness.utility.LoggingAspect - Before advice called.
+2023-04-13 06:10:34 [main] INFO  com.ness.utility.LoggingAspect - After returning advice called.
+2023-04-13 06:10:34 [main] INFO  com.ness.utility.LoggingAspect - After advice called.
+2023-04-13 06:10:34 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - Customer logged in successfully!!
+2023-04-13 06:10:53 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - Starting FirstSpringBootApplication using Java 18.0.1.1 with PID 14160 (C:\Users\Daksh\IdeaProjects\Ness_Spring_Boot\FirstSpringBoot\target\classes started by Daksh in C:\Users\Daksh\IdeaProjects\Ness_Spring_Boot)
+2023-04-13 06:10:53 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-13 06:10:54 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - Started FirstSpringBootApplication in 1.957 seconds (process running for 3.023)
+2023-04-13 06:10:54 [main] INFO  com.ness.utility.LoggingAspect - Before advice called.
+2023-04-13 06:10:54 [main] INFO  com.ness.utility.LoggingAspect - After returning advice called.
+2023-04-13 06:10:54 [main] INFO  com.ness.utility.LoggingAspect - After advice called.
+2023-04-13 06:10:54 [main] INFO  com.ness.FirstSpringBoot.FirstSpringBootApplication - Customer logged in successfully!!
